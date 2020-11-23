@@ -1,0 +1,22 @@
+
+
+Importing file: C:\Users\91709\IBM\ACET11\workspace\WEB_SERVICES_SAMPLE\WEBSERVICE.wsdl
+
+The WSDL import will proceed with bindings WEBSERVICESOAP.
+Creating wsdl schema document for file:///C:/Users/91709/IBM/ACET11/workspace/WEB_SERVICES_SAMPLE/WEBSERVICE.wsdl.
+Parsing wsdl binding {http://www.example.org/WEBSERVICE/}WEBSERVICESOAP.
+Parsing wsdl binding input NewOperation.
+Parsing wsdl binding output NewOperation.
+Processing doc style for operation NewOperation.
+Populating WSDL schema WEBSERVICE.xsd.
+Creating file WEBSERVICE.xsd in the workspace.
+Creating file WEBSERVICE_InlineSchema1.xsd in the workspace.
+Copying source WSDL WEBSERVICE.wsdl to WEBSERVICE.wsdl.
+
+Elapsed time processing this message definition file: 0.404 seconds
+Number of warnings for this message definition file: 0
+
+
+Number of files processed: 1
+
+
